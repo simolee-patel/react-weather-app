@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simolee-patel.github.io/react-weather-app/static/css/main.4c299605.chunk.css",
+    "main.js": "/simolee-patel.github.io/react-weather-app/static/js/main.751137f0.chunk.js",
+    "main.js.map": "/simolee-patel.github.io/react-weather-app/static/js/main.751137f0.chunk.js.map",
+    "runtime-main.js": "/simolee-patel.github.io/react-weather-app/static/js/runtime-main.4956b989.js",
+    "runtime-main.js.map": "/simolee-patel.github.io/react-weather-app/static/js/runtime-main.4956b989.js.map",
+    "static/js/2.2e93365d.chunk.js": "/simolee-patel.github.io/react-weather-app/static/js/2.2e93365d.chunk.js",
+    "static/js/2.2e93365d.chunk.js.map": "/simolee-patel.github.io/react-weather-app/static/js/2.2e93365d.chunk.js.map",
+    "index.html": "/simolee-patel.github.io/react-weather-app/index.html",
+    "precache-manifest.3d3e7ba4f6af7f27a5ff1eb3fc0f3aef.js": "/simolee-patel.github.io/react-weather-app/precache-manifest.3d3e7ba4f6af7f27a5ff1eb3fc0f3aef.js",
+    "service-worker.js": "/simolee-patel.github.io/react-weather-app/service-worker.js",
+    "static/css/main.4c299605.chunk.css.map": "/simolee-patel.github.io/react-weather-app/static/css/main.4c299605.chunk.css.map",
+    "static/js/2.2e93365d.chunk.js.LICENSE.txt": "/simolee-patel.github.io/react-weather-app/static/js/2.2e93365d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/simolee-patel.github.io/react-weather-app/static/media/morning.d6355bcd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4956b989.js",
+    "static/js/2.2e93365d.chunk.js",
+    "static/css/main.4c299605.chunk.css",
+    "static/js/main.751137f0.chunk.js"
+  ]
+}
